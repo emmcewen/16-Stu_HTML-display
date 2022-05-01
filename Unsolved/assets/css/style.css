@@ -1,0 +1,44 @@
+header {
+  width: 100%;
+  background-color: lightblue;
+}
+
+h2 {
+  text-align: left;
+}
+
+ul {
+  text-align: right;
+  color: #ffffff;
+}
+
+/* List items in navigation bar */
+li {
+  /* TODO: Add your code here */
+  list-style-type: none;
+  font-size: 40px;
+  display: inline;
+}
+
+/* Boxes */
+img {
+  /* TODO: Add your code here */
+  margin: 0 auto;
+  display:block;
+}
+
+#item-1 {
+  background-color: rgb(139, 0, 100);
+}
+
+#item-2 {
+  background-color: #6818d9;
+}
+
+#item-3 {
+  background-color: rgb(216, 170, 53);
+}
+ 
+#image-3 {
+  display:block;
+}
